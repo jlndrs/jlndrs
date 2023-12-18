@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Julian!</h2>
 
-**Hi there, I'm Julian Drees, a Java developer from Cologne, Germany.**
+**Hi there, I'm Julian Drees, a Java developer from Bergisch Gladbach, Germany.**
 
 - 🏢 I'm an web application developer (java, spring, apache wicket & many more!)
 - 🎓 I completed my apprenticeship in January 2021
